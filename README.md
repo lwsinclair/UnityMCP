@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/igordias2-unitymcp-badge.png)](https://mseep.ai/app/igordias2-unitymcp)
+
 # UnityMCP [![](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white 'LinkedIn')](https://www.linkedin.com/in/jack-w-richards/)
 
 
